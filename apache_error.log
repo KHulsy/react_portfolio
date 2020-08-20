@@ -1,0 +1,14 @@
+[Wed Aug 19 19:10:26 2020] [notice] Digest: generating secret for digest authentication ...
+[Wed Aug 19 19:10:26 2020] [notice] Digest: done
+[Wed Aug 19 19:10:26 2020] [notice] FastCGI: process manager initialized (pid 52839)
+[Wed Aug 19 19:10:26 2020] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.4.2 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.24.0 configured -- resuming normal operations
+[Wed Aug 19 19:20:56 2020] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/nameOfYourProject, referer: https://medium.com/@dtkahn/sharing-headers-and-footers-across-multi-page-websites-4396f9034669
+[Wed Aug 19 19:22:37 2020] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/react_portfolio
+[Wed Aug 19 19:29:08 2020] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/react_portfolio
+[Wed Aug 19 19:48:10 2020] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/react_portfolio
+[Wed Aug 19 19:56:47 2020] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/nameOfYourProject, referer: https://medium.com/@dtkahn/sharing-headers-and-footers-across-multi-page-websites-4396f9034669
+[Wed Aug 19 19:57:08 2020] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/test.hp
+[Wed Aug 19 21:21:08 2020] [notice] Digest: generating secret for digest authentication ...
+[Wed Aug 19 21:21:08 2020] [notice] Digest: done
+[Wed Aug 19 21:21:08 2020] [notice] FastCGI: process manager initialized (pid 3925)
+[Wed Aug 19 21:21:08 2020] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.4.2 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.24.0 configured -- resuming normal operations
